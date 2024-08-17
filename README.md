@@ -1,2 +1,1 @@
-# digital-business-card
- 
+# Day 3 - React Business Card
